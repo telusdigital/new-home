@@ -1,4 +1,4 @@
-# We'e Moved!
+# We've Moved!
 
-checkout https://github.com/telus
+Check out https://github.com/telus
 
